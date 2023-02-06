@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BigBeard2001
+- 👋 Hi, I’m @CyrusZheng2001
 - 👀 I’m interested in data science and machine learning
 - 📫 Contact me by email cyrus_zhengjin@outlook.com
 
